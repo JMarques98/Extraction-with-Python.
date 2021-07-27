@@ -34,7 +34,7 @@ for i in range(len(losarchivos)):
     number_of_pages = pdf.getNumPages()
 
         
-    print('El número de páginas de' + ' ' + valor + ' ' + 'es' + ' ' + str(number_of_pages))
+    print('The number of pages of' + ' ' + valor + ' ' + 'is' + ' ' + str(number_of_pages))
     
     #we print by screen the number of pages detected in each file
     
